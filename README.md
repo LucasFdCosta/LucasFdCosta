@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LucasFdCosta
+- 👋 Hi, I’m Lucas
 - 👀 I’m interested in C#/Javascript
 - 🌱 I’m currently learning .NET
 
