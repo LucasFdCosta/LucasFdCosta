@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas
 - 👀 I’m interested in C#/Javascript
-- 🌱 I’m currently learning .NET
+- 🌱 I’m currently learning Python
 
 <!---
 LucasFdCosta/LucasFdCosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
