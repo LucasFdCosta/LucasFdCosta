@@ -1,43 +1,28 @@
-# en-US
-# Hi, my name is Lucas and you're seeing my GitHub Profile!
+# About Me
+### Contact info
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-f-costa/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@lucascosta9535/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lucas.co090869@gmail.com)
 
-Hey there! 👋 Welcome to my GitHub profile. It is my honor to share my projects and journey with you. Here, you'll find a collection of repositories showcasing my passion for development! The technologies i'm currently most interested are .NET/C# and React. The area I chose to work on is web development. 
+### Hey there! 👋
+> Welcome to my GitHub profile. It is my honor to share my projects with you. Here, you'll find a collection of repositories showcasing my journey in web development! The technologies i'm currently most interested are .NET/C# and React.
 
-## About Me
+> I'm a dedicated developer with a focus on building robust web applications and solutions. My journey in the world of programming began even before my high school and has been fueled by my curiosity and genuine interest for creating impactful software.
 
-I'm a dedicated developer with a focus on building robust web applications and solutions. My journey in the world of programming began even before my high school and has been fueled by my curiosity and genuine interest for creating impactful software.
+# What You'll Find Here
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-## What You'll Find Here
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### .NET/C#
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasFdCosta&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-For backend development, my favorite technology at the moment is the .NET platform with the C# language. My repositories summarize my journey in building scalable and efficient solutions using the Microsoft technology stack. Whether it's crafting RESTful APIs with ASP.NET Core or simply exploring features of the C# language, you'll find a variety of projects to explore from the beginning of my studies to my most recent personal practice projects.
-
-### React
-
-Now for frontend development, React is currently the technology i'm mostly working and interested. My repositories consist of frontend applications that I create, sometimes alone, sometimes in bootcamps/group projects, to practice using this powerful and productive JavaScript library to solve real world problems exploring dynamic user interfaces, state management solutions, and reusable UI components. Whether it's building single-page applications or integrating with REST APIs, there is something I enjoy about crafting intuitive and responsive web experiences.
+## Some Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasFdCosta&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Thanks for stopping by, and let's code! 🚀
-# pt-BR
-# Olá, meu nome é Lucas e esse é meu perfil no GitHub!
-
-Saudações! 👋 Bem vindo ao meu perfil do GitHub. É minha honra apresentar meus projetos e minha jornada com você. Aqui, você irá encontrar uma coleção de repositórios exibindo minha paixão por desenvolvimento! As tecnologias que eu estou mais interessado atualmente são .NET/C# e React. A área que eu escolhi para trabalhar foi o desenvolvimento web.
-
-## Sobre mim
-
-Eu sou um desenvolvedor dedicado e com foco em construir soluções e aplicações web robustas. Minha jornada no mundo da programação começou antes mesmo do meu ensino médio e tem desde então sido abastecida pela minha curiosidade e interesse genuíno em criar softwares impactantes.
-
-## O que você encontrará aqui
-
-### .NET/C#
-
-Para desenvolvimento backend, minha tecnologia favorita no momento é a plataforma .NET com a linguagem C#. Meus repositórios resumem minha jornada em construir soluções escaláveis e eficientes usando essa tecnologia. Seja criando APIs RESTful com ASP.NET Core ou simplesmente explorando os recursos da linguagem C#, você encontrará uma variedade de projetos para explorar o começo dos meus estudos até meus projetos pessoais de prática mais recentes.
-
-### React
-
-Agora para desenvolvimento frontend, React é atualmente a tecnologia que eu mais estou trabalhando e interessado. Meus repositórios consistem de aplicações frontend que eu crio, as vezes sozinho, as vezes em bootcamps/projetos em grupo, para praticar usando essa poderosa e produtiva biblioteca JavaScript para resolver problemas reais explorando interfaces de usuário dinamicas, soluções com manipulação de estado, e componentes de interface de usuário reaproveitáveis. Seja construindo SPAs (single-page applications) ou integrando com APIs REST, tem algo que gosto em construir experiências web intuitivas e responsivas.
-
-### Obrigado por vir até aqui, e bora codar 🚀
 <!---
 LucasFdCosta/LucasFdCosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
