@@ -5,9 +5,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lucas.co090869@gmail.com)
 
 ### Hey there! 👋
-> Welcome to my GitHub profile. It is my honor to share my projects with you. Here, you'll find a collection of repositories showcasing my journey in web development! The technologies i'm currently most interested are backend systems/APIs and frontend applications with dynamic user interfaces, intuitive and responsive web experiences.
+Welcome to my GitHub profile. It is my honor to share my projects with you. Here, you'll find a collection of repositories showcasing my journey in web development! The technologies i'm currently most interested are backend systems/APIs and frontend applications with dynamic user interfaces, intuitive and responsive web experiences.
 
-> I'm a dedicated developer with a focus on building robust web applications and solutions. My journey in the world of programming began even before my high school and has been fueled by my curiosity and genuine interest for creating impactful software.
+I'm a dedicated developer with a focus on building robust web applications and solutions. My journey in the world of programming began even before my high school and has been fueled by my curiosity and genuine interest for creating impactful software.
 
 # What You'll Find Here
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
